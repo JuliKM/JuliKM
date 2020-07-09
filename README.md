@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+My aim is to begin my career at web development and data handling. I look forward to work in motivating and challenging projects. My intention is to work at an Enterprise in a global context with the interaction of a multicultural environment. 
 <!--
 **JuliKM/JuliKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-My aim is to begin my career at web development and data handling. I look forward to work in motivating and challenging projects. My intention is to work at an Enterprise in a global context with the interaction of a multicultural environment.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
