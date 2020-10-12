@@ -1,5 +1,5 @@
 ### Hi there 👋
-My aim is to continue my career at data handling. I look forward to work in motivating and challenging projects. My intention is to work at an Enterprise in a global context with the interaction of a multicultural environment. 
+My aim is to continue my career at data handling. I look forward to work in motivating and challenging projects. My intention is to continue working at enterprises in a global context with the interaction of a multicultural environment. 
 <!--
 **JuliKM/JuliKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
