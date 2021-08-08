@@ -37,4 +37,11 @@ My aim is to continue my career at data handling. I look forward to work in moti
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.scala-lang.org/" target="_blank"> <img src="https://github.com/kaeawc/scala-logo/blob/master/img/logo.svg" alt="Scala" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.java.com/es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://databricks.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/es-es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
+  
+</p>
