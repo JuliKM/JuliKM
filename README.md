@@ -27,7 +27,7 @@ My aim is to continue my career at data handling. I look forward to work in moti
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuliKM](https://github.com/JuliKM)
 
-- 💬 Ask me about **Python**. **Scala**, **SQL**
+- 💬 Ask me about **Python**. **Scala**, **SQL**, **Spark**
 
 - 📫 How to reach me **JuliKM@gmail.com**
 
