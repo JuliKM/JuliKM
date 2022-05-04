@@ -23,7 +23,7 @@ My aim is to continue my career at data handling. I look forward to work in moti
 
 - 🔭 I’m currently working on [Translation of Python documentation to Spanish](https://github.com/python/python-docs-es)
 
-- 🌱 I’m currently learning **Scala, Spark, SQL, Python, Machine Learning, Java**
+- 🌱 I’m currently learning **Scala, Spark, SQL, Python, Machine Learning, Java, Airflow, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuliKM](https://github.com/JuliKM)
 
