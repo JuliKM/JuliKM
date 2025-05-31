@@ -21,7 +21,7 @@ My aim is to continue my career at data handling. I look forward to work in moti
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julikm&label=Profile%20views&color=0e75b6&style=flat" alt="julikm" /> </p>
 
-- 🔭 I’m currently working on [Translation of Python documentation to Spanish](https://github.com/python/python-docs-es)
+- 🔭 I’m currently working on [BananaSnap](https://play.google.com/store/apps/details?id=com.cipherchabon.banana_app&pcampaignid=web_share)
 
 - 🌱 I’m currently learning **Scala, Spark, SQL, Python, Machine Learning, Java, Airflow, AWS**
 
